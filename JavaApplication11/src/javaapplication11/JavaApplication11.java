@@ -18,6 +18,6 @@ public class JavaApplication11 {
         
         System.out.println("kiran");
         System.out.println("kiran");
-        System.out.println("kiran");
+        System.out.println("kiran");System.out.println("kiran");
     }
 }
