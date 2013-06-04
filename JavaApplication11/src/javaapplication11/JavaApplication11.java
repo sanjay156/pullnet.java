@@ -17,5 +17,7 @@ public class JavaApplication11 {
         // TODO code application logic here
         
         System.out.println("kiran");
+        System.out.println("kiran");
+        System.out.println("kiran");
     }
 }
